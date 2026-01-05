@@ -4,7 +4,6 @@ title: Por lenguaje
 
 # 🧑‍💻 Ejemplos por lenguaje
 
-{% raw %}
 {% assign langs = "" | split: "" %}
 
 {% for ex in site.data.examples %}
@@ -25,4 +24,3 @@ title: Por lenguaje
 {% endfor %}
 
 {% endfor %}
-{% endraw %}

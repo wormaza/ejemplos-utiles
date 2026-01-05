@@ -4,23 +4,23 @@ title: Por ramo
 
 # 🎓 Ejemplos por ramo
 
-{% raw %}
 {% assign courses = "" | split: "" %}
 
 {% for ex in site.data.examples %}
-  {% unless courses contains ex.course %}
-    {% assign courses = courses | push: ex.course %}
-  {% endunless %}
+  {% for c in ex.courses %}
+    {% unless courses contains c %}
+      {% assign courses = courses | push: c %}
+    {% endunless %}
+  {% endfor %}
 {% endfor %}
 
 {% for course in courses %}
 ## {{ course }}
 
 {% for ex in site.data.examples %}
-  {% if ex.course == course %}
+  {% if ex.courses contains course %}
 - [{{ ex.title }}]({{ site.baseurl }}/{{ ex.path }})
   {% endif %}
 {% endfor %}
 
 {% endfor %}
-{% endraw %}
