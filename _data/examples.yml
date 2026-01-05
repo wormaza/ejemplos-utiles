@@ -1,6 +1,6 @@
 - id: cpp-001
   title: "Factorial recursivo en C++"
-  path: "ejemplos/ambito/001C"
+  path: "ejemplos/ambito/001-c"
   language: ["C++"]
   concepts: ["Recursión"]
   courses: ["INF253"]
