@@ -4,7 +4,6 @@ title: Por concepto
 
 # 🧠 Ejemplos por concepto
 
-{% raw %}
 {% assign concepts = "" | split: "" %}
 
 {% for ex in site.data.examples %}
@@ -25,4 +24,3 @@ title: Por concepto
 {% endfor %}
 
 {% endfor %}
-{% endraw %}
