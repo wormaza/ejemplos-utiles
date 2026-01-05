@@ -1,3 +1,6 @@
 title: "Ejemplos de apoyo"
 description: "Ejemplos para apoyar el estudio de algunos conceptos"
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://wormaza.github.io"
+baseurl: "/ejemplos-utiles"
