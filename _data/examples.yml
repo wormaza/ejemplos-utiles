@@ -3,7 +3,7 @@
   path: "ejemplos/Ambito/001C++"
   language: ["C++"]
   concepts: ["Recursión"]
-  course: ["INF253"]
+  courses: ["INF253"]
   level: "Básico"
 
 - id: scheme-001
@@ -11,5 +11,5 @@
   path: "ejemplos/Recursion/001SchemeCola"
   language: ["Python"]
   concepts: ["Concurrencia", "Threads"]
-  course: ["INF253"]
+  courses: ["INF253"]
   level: "Intermedio"
