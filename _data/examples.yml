@@ -1,15 +1,7 @@
 - id: cpp-001
   title: "Factorial recursivo en C++"
-  path: "ejemplos/Ambito/001C++"
+  path: "ejemplos/ambito/001C"
   language: ["C++"]
   concepts: ["Recursión"]
   courses: ["INF253"]
   level: "Básico"
-
-- id: scheme-001
-  title: "Uso básico de threads en Python"
-  path: "ejemplos/Recursion/001SchemeCola"
-  language: ["Python"]
-  concepts: ["Concurrencia", "Threads"]
-  courses: ["INF253"]
-  level: "Intermedio"

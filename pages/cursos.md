@@ -14,11 +14,11 @@ title: Por ramo
   {% endfor %}
 {% endfor %}
 
-{% for course in courses %}
-## {{ course }}
+{% for c in courses %}
+## {{ c }}
 
 {% for ex in site.data.examples %}
-  {% if ex.courses contains course %}
+  {% if ex.courses contains c %}
 - [{{ ex.title }}]({{ site.baseurl }}/{{ ex.path }})
   {% endif %}
 {% endfor %}
