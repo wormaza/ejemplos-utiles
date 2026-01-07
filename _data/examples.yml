@@ -1,7 +1,7 @@
 - id: cpp-001
-  title: "Factorial recursivo en C++"
-  path: "ejemplos/ambito/001-c"
+  title: "Clases y objetos en C++ (Memoria)"
+  path: "ejemplos/orientacion-objeto/memoria-c"
   language: ["C++"]
-  concepts: ["Recursión"]
-  courses: ["INF253"]
+  concepts: ["Orientación a objetos", "Memoria"]
+  courses: ["Lenguajes de progrmación", "Programación avanzada para ciencias"]
   level: "Básico"
