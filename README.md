@@ -2,7 +2,7 @@
 
 La finalidad de este repositorio es poder ordenar y dejar a disposición ejemplos de diferentes asignaturas para poder ser revisados y utilizados para complementar el estudio.
 
-Acceso a los ejemplos: [📖](https://wormaza.github.io/ejemplos-utiles/)
+Acceso a los ejemplos: [📚](https://wormaza.github.io/ejemplos-utiles/)
 
 > * ⚠️: **NO** reemplaza el material oficial de las asignaturas.
 > * ⚠️ **NO** necesariamente cubre todos los contenidos
@@ -74,3 +74,4 @@ Incluir validación de los archivos de configuración.
 * [Github pages](https://docs.github.com/es/pages)
 * [Liquid](https://shopify.dev/docs/api/liquid)
 * [Jekyll](https://jekyllrb.com/docs/)
+* [Just the docs](https://github.com/just-the-docs/just-the-docs)

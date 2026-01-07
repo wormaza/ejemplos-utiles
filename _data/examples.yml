@@ -1,4 +1,4 @@
-- id: cpp-001
+- id: oo-001
   title: "Clases y objetos en C++ (Memoria)"
   path: "ejemplos/orientacion-objeto/memoria-c"
   language: ["C++"]
