@@ -1,6 +1,6 @@
 title: "Ejemplos"
 description: "Ejemplos para apoyar el estudio de algunos conceptos"
 remote_theme: just-the-docs/just-the-docs
-
+favicon_ico: "/assets/images/cropped-favicon_usm-192x192.png"
 url: "https://wormaza.github.io"
 baseurl: "/ejemplos-utiles"
