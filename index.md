@@ -1,5 +1,5 @@
 ---
-title: Inicio
+title: 001 Inicio
 ---
 
 # 📚 Ejemplos de apoyo
