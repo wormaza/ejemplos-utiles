@@ -5,3 +5,19 @@
   concepts: ["Orientación a objetos", "Memoria"]
   courses: ["Lenguajes de progrmación", "Programación avanzada para ciencias"]
   level: "Básico"
+
+- id: tip-001
+  title: "Tipificación implícita y explícita en C++"
+  path: "ejemplos/tipificacion/implicita-explicita-cplus"
+  language: ["C++"]
+  concepts: ["Tipado implicito","Tipado explicito","Tipificacion", "Memoria"]
+  courses: ["Lenguajes de progrmación", "Programación avanzada para ciencias"]
+  level: "Básico"
+
+- id: tip-002
+  title: "Coerción vs Conversión en C/C+++"
+  path: "ejemplos/tipificacion/conversion-coercion-cplus"
+  language: ["C++","C"]
+  concepts: ["Coerción","Conversión","Casting"]
+  courses: ["Lenguajes de progrmación", "Programación avanzada para ciencias"]
+  level: "Medio"

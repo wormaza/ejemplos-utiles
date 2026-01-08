@@ -10,4 +10,4 @@ A continuación, se presentan una serie de ejemplos que pueden ayudar a compleme
 - [Por concepto](pages/conceptos)
 - [Por ramo](pages/cursos)
 
-> * 📧: Dudas/consultas/comentarios a [wladimir.ormazabal@usm.cl](mailto:wladimir.ormazabal@usm.cl)
+> 📧: Dudas/consultas/comentarios a [wladimir.ormazabal@usm.cl](mailto:wladimir.ormazabal@usm.cl)
