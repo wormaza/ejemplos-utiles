@@ -3,7 +3,7 @@
   path: "ejemplos/orientacion-objeto/memoria-c"
   language: ["C++"]
   concepts: ["Orientación a objetos", "Memoria"]
-  courses: ["Lenguajes de progrmación", "Programación avanzada para ciencias"]
+  courses: ["Lenguajes de programación", "Programación avanzada para ciencias"]
   level: "Básico"
 
 - id: tip-001
@@ -11,13 +11,29 @@
   path: "ejemplos/tipificacion/implicita-explicita-cplus"
   language: ["C++"]
   concepts: ["Tipado implicito","Tipado explicito","Tipificacion", "Memoria"]
-  courses: ["Lenguajes de progrmación", "Programación avanzada para ciencias"]
+  courses: ["Lenguajes de programación", "Programación avanzada para ciencias"]
   level: "Básico"
 
 - id: tip-002
-  title: "Coerción vs Conversión en C/C+++"
+  title: "Coerción vs Conversión en C/C++"
   path: "ejemplos/tipificacion/conversion-coercion-cplus"
   language: ["C++","C"]
   concepts: ["Coerción","Conversión","Casting"]
-  courses: ["Lenguajes de progrmación", "Programación avanzada para ciencias"]
+  courses: ["Lenguajes de programación", "Programación avanzada para ciencias"]
   level: "Medio"
+
+- id: amb-001
+  title: "Impacto definición del ámbito en C/C++"
+  path: "ejemplos/ambito/ambito-caso-c"
+  language: ["C++","C"]
+  concepts: ["Ámbito","Memoria"]
+  courses: ["Lenguajes de programación", "Programación avanzada para ciencias"]
+  level: "Básico"
+
+- id: amb-002
+  title: "Impacto definición del ámbito en Python"
+  path: "ejemplos/ambito/ambito-caso-python"
+  language: ["Python"]
+  concepts: ["Ámbito","Memoria"]
+  courses: ["Lenguajes de programación", "Programación avanzada para ciencias"]
+  level: "Básico"
