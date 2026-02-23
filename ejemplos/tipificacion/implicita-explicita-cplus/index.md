@@ -6,7 +6,7 @@ title: Tipificación implícita y explícita en C++
 
 **Lenguaje:** C++  
 **Concepto:** Tipificación, Memoria  
-**Ramos:** Lenguajes de programación, Programación avanzada para ciencias  
+**Ramos:** Programación avanzada para ciencias  
 
 ## Descripción
 Diferencias de como opera la tipificación en C++:

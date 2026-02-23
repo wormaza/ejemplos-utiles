@@ -6,7 +6,7 @@ title: Impacto definición del ámbito en Python
 
 **Lenguaje:** Python  
 **Concepto:** Ámbito
-**Ramos:** Lenguajes de programación, Programación avanzada para ciencias  
+**Ramos:** Programación avanzada para ciencias  
 
 ## Descripción
 * Un *ámbito* corresponde a una parte de nuestro código. En este ejemplo, el uso de identación nos permite poder identificarlos.

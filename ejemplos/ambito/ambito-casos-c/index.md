@@ -6,7 +6,7 @@ title: Impacto definición del ámbito en C/C++
 
 **Lenguaje:** C/C++  
 **Concepto:** Ámbito, Memoria estática, Memoria stack, Memoria
-**Ramos:** Lenguajes de programación, Programación avanzada para ciencias  
+**Ramos:** Programación avanzada para ciencias  
 
 ## Descripción
 * Un *ámbito* corresponde a una parte de nuestro código. En la práctica lo podemos identificar cuando encontramos:

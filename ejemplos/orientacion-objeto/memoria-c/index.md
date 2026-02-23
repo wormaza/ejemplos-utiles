@@ -6,7 +6,7 @@ title: Clases y objetos en C++ (Memoria)
 
 **Lenguaje:** C++  
 **Concepto:** Orientación a objetos, Memoria  
-**Ramos:** Lenguajes de programación, Programación avanzada para ciencias  
+**Ramos:** Programación avanzada para ciencias  
 
 ## Descripción
 * Diferencias entre la creación de objetos en memoria stack y en memoria heap (direccionamiento indirecto mediante punteros).

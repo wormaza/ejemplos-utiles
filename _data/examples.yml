@@ -3,7 +3,7 @@
   path: "ejemplos/orientacion-objeto/memoria-c"
   language: ["C++"]
   concepts: ["Orientación a objetos", "Memoria"]
-  courses: ["Lenguajes de programación", "Programación avanzada para ciencias"]
+  courses: ["Programación avanzada para ciencias"]
   level: "Básico"
 
 - id: tip-001
@@ -11,7 +11,7 @@
   path: "ejemplos/tipificacion/implicita-explicita-cplus"
   language: ["C++"]
   concepts: ["Tipado implicito","Tipado explicito","Tipificacion", "Memoria"]
-  courses: ["Lenguajes de programación", "Programación avanzada para ciencias"]
+  courses: ["Programación avanzada para ciencias"]
   level: "Básico"
 
 - id: tip-002
@@ -19,7 +19,7 @@
   path: "ejemplos/tipificacion/conversion-coercion-cplus"
   language: ["C++","C"]
   concepts: ["Coerción","Conversión","Casting"]
-  courses: ["Lenguajes de programación", "Programación avanzada para ciencias"]
+  courses: ["Programación avanzada para ciencias"]
   level: "Medio"
 
 - id: amb-001
@@ -27,7 +27,7 @@
   path: "ejemplos/ambito/ambito-caso-c"
   language: ["C++","C"]
   concepts: ["Ámbito","Memoria"]
-  courses: ["Lenguajes de programación", "Programación avanzada para ciencias"]
+  courses: ["Programación avanzada para ciencias"]
   level: "Básico"
 
 - id: amb-002
@@ -35,5 +35,5 @@
   path: "ejemplos/ambito/ambito-caso-python"
   language: ["Python"]
   concepts: ["Ámbito","Memoria"]
-  courses: ["Lenguajes de programación", "Programación avanzada para ciencias"]
+  courses: ["Programación avanzada para ciencias"]
   level: "Básico"

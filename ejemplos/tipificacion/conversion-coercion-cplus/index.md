@@ -6,7 +6,7 @@ title: Coerción y conversión en C/C++
 
 **Lenguaje:** C/C++  
 **Concepto:** Casting, Coerción, Conversión  
-**Ramos:** Lenguajes de programación, Programación avanzada para ciencias  
+**Ramos:** Programación avanzada para ciencias  
 
 ## Descripción
 Los conceptos de *coerción* y *conversión* se realcionan con la modificación de los tipos de datos en una expresión:
